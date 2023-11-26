@@ -1,0 +1,22 @@
+/* *{
+    background-color: black;
+    color: gainsboro;
+} */
+
+/* div, p{
+    color: orangered;
+    background-color: aquamarine;
+} */
+
+/* div p{
+    color: orangered;
+    background-color: aquamarine;
+} */
+
+.table_class{
+    background-color: rgba(45, 28, 201, 0.973);
+}
+
+#form_id{
+    background-color: blueviolet;
+}
